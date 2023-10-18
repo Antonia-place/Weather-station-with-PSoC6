@@ -1,0 +1,2 @@
+In this folder is datasheet of tranzistor used to backlight command; I used to repair the wrong tranzistor capsule used for PCB.
+For details, see https://www.hackster.io/popa-mihai/indoor-multi-screen-air-quality-measurement-b14ed9
